@@ -1,0 +1,62 @@
+#From, To, Weekday, Time, Fare, Explanation
+1,1,Monday,08:00     30.0	PEAK HOUR FARE
+1,1,Monday,08:30     30.0   PEAK HOUR FARE
+1,1,Monday,09:00     30.0   PEAK HOUR FARE
+1,1,Monday,09:30     10.0	DC OF 100 APPLIED
+1,1,Monday,09:45     0.0	DC OF 100 APPLIED
+1,1,Monday,10:00     0.0	DC OF 100 APPLIED
+1,2,Monday,10:30     20.0	DC OF 120 APPLIED
+2,1,Monday,10:45     0.0	DC OF 120 APPLIED
+1,1,Tuesday,08:00    30.0   PEAK HOUR FARE
+1,1,Tuesday,08:30    30.0   PEAK HOUR FARE
+1,1,Tuesday,08:40    30.0   PEAK HOUR FARE
+1,1,Tuesday,08:50    10.0	DC OF 100 APPLIED
+1,1,Tuesday,08:55    0.0	DC OF 100 APPLIED
+1,2,Tuesday,09:00    20.0	DC OF 100 APPLIED
+2,1,Tuesday,09:20    0.0	DC OF 100 APPLIED
+1,1,Wednesday,08:00  30.0   PEAK HOUR FARE
+1,1,Wednesday,08:00  30.0   PEAK HOUR FARE
+1,1,Wednesday,08:00  30.0   PEAK HOUR FARE
+1,1,Wednesday,08:00  10.0	DC OF 100 APPLIED
+1,1,Wednesday,08:00  0.0	DC OF 100 APPLIED
+1,1,Wednesday,08:00  0.0	DC OF 100 APPLIED
+1,1,Wednesday,08:00  0.0	DC OF 100 APPLIED
+1,1,Wednesday,08:00  0.0	DC OF 100 APPLIED
+1,1,Wednesday,08:00  0.0	DC OF 100 APPLIED
+1,1,Thursday,08:00   30.0	PEAK HOUR FARE
+1,1,Thursday,08:20   30.0   PEAK HOUR FARE
+1,1,Thursday,08:30   30.0   PEAK HOUR FARE
+1,1,Thursday,08:40   10.0	DC OF 100 APPLIED
+1,1,Thursday,08:50   0.0	DC OF 100 APPLIED
+1,2,Thursday,09:00   20.0	DC OF 120 APPLIED
+2,1,Thursday,09:20   0.0	DC OF 120 APPLIED
+1,1,Friday,08:00     30.0	PEAK HOUR FARE
+1,1,Friday,08:15     30.0   PEAK HOUR FARE
+1,1,Friday,08:20     30.0   PEAK HOUR FARE
+1,1,Friday,08:25     10.0	DC OF 100 APPLIED
+1,1,Friday,08:35     0.0	DC OF 100 APPLIED
+1,2,Friday,09:00     20.0	DC OF 120 APPLIED
+1,2,Saturday,08:00   20.0	WC of 600 applied
+2,2,Saturday,08:15   0.0	WC of 600 applied
+2,2,Saturday,08:25   0.0	WC of 600 applied
+2,2,Saturday,08:35   0.0	WC of 600 applied
+2,2,Saturday,08:40   0.0	WC of 600 applied
+2,1,Saturday,08:45   0.0	WC of 600 applied
+1,1,Saturday,08:55   0.0	WC of 600 applied
+1,1,Sunday,08:00     0.0	WC of 600 applied, so no fare even though new day.
+1,2,Sunday,08:15     0.0	WC of 600 applied
+1,1,Sunday,08:20     0.0	WC of 600 applied
+1,1,Sunday,08:35     0.0	WC of 600 applied
+1,1,Sunday,08:45     0.0	WC of 600 applied
+1,1,Sunday,08:55     0.0	WC of 600 applied
+1,2,Monday,08:00     35.0	NEW DAY AND NEW WEEK
+2,2,Monday,08:15     25.0	PEAK HOUR FARE
+2,2,Monday,08:30     25.0   PEAK HOUR FARE
+2,1,Monday,08:40     35.0   PEAK HOUR FARE
+1,1,Monday,09:30     0.0	DC OF 120 APPLIED
+1,1,Tuesday,08:00    30.0	NEW DAY
+1,1,Tuesday,08:30    30.0   PEAK HOUR FARE
+1,1,Tuesday,08:40    30.0   PEAK HOUR FARE
+1,1,Tuesday,08:50    10.0	DC OF 100 APPLIED
+1,1,Tuesday,09:00    0.0	DC OF 100 APPLIED
+1,1,Tuesday,13:40    0.0	DC OF 100 APPLIED
